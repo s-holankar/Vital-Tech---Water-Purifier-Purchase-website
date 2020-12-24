@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cd1.xsl"?>
+
+<CATALOG>
+<CD>
+       <ITEMID>1</ITEMID>
+       <TITLE>Dr. Aquaguard</TITLE>
+       <COLOUR>Blue</COLOUR>
+       <PRICE>25,990</PRICE>
+       <SIZE>390 L x 285 W x 400 H</SIZE>
+       </CD> 
+    
+    <CD>
+       <ITEMID>2</ITEMID>
+       <TITLE>Aquaguard</TITLE>
+       <COLOUR>Black</COLOUR>
+       <PRICE>20,500</PRICE>
+       <SIZE> 400 L X 230 W X 540 H</SIZE>
+       </CD> 
+
+    <CD>
+       <ITEMID>3</ITEMID>
+       <TITLE>AquaSure</TITLE>
+       <COLOUR>White</COLOUR>
+       <PRICE>38,690</PRICE>
+       <SIZE>410 L X 260 W X 520 H</SIZE>
+       </CD> 
+
+    <CD>
+       <ITEMID>4</ITEMID>
+       <TITLE>AquaSoft</TITLE>
+       <COLOUR>Grey</COLOUR>
+       <PRICE>35,500</PRICE> 
+       <SIZE>300 L X 290 W X 410 H</SIZE>
+       </CD> 
+
+    <CD>
+       <ITEMID>5</ITEMID>
+       <TITLE>AquaSure Xpert</TITLE>
+       <COLOUR>Black</COLOUR>
+       <PRICE>45,500</PRICE>
+       <SIZE>435 L X 199 W X 297 H</SIZE>
+       </CD>  
+
+
+     <CD>
+       <ITEMID>6</ITEMID>
+       <TITLE>AirPurifier</TITLE>
+       <COLOUR>Blue</COLOUR>
+       <PRICE>9,990</PRICE>   
+       <SIZE>299 sq ft</SIZE>
+       </CD> 
+
+       
+
+<CD>
+       <ITEMID>7</ITEMID>
+       <TITLE>Dr. Aeroguard</TITLE>
+       <COLOUR>White</COLOUR>
+       <PRICE>20,000</PRICE> 
+       <SIZE>300 sq ft</SIZE>
+       </CD> 
+
+       
+
+<CD>
+       <ITEMID>8</ITEMID>
+       <TITLE>Aerguard AP 700</TITLE>
+       <COLOUR>Black</COLOUR>
+       <PRICE>14,990</PRICE> 
+       <SIZE>699 sq ft</SIZE>
+       </CD> 
+
+       
+
+<CD>
+       <ITEMID>9</ITEMID>
+       <TITLE>Aeroguard Auto 10x</TITLE>
+       <COLOUR>Grey</COLOUR>
+       <PRICE>7,990</PRICE>
+       <SIZE>400 sq ft</SIZE>
+       </CD>   
+
+       
+
+<CD>
+       <ITEMID>10</ITEMID>
+       <TITLE>Dr. Aeroguard HPA 500</TITLE>
+       <COLOUR>White</COLOUR>
+       <PRICE>8,990</PRICE>
+       <SIZE>165 L X 380 W X 422 H</SIZE>
+       </CD>  
+
+
+ <CD>
+       <ITEMID>11</ITEMID>
+       <TITLE>Dr. Aquaguard</TITLE>
+       <COLOUR>Blue</COLOUR>
+       <PRICE>26,899</PRICE>
+       <SIZE>140 L X 520 W X 380 H</SIZE>
+       </CD> 
+    
+    <CD>
+       <ITEMID>12</ITEMID>
+       <TITLE>AquaguardSoft Xpert</TITLE>
+       <COLOUR>Black</COLOUR>
+       <PRICE>21,900</PRICE>
+       <SIZE>150 L X 380 W X 420 H</SIZE>
+       </CD> 
+
+
+    <CD>
+       <ITEMID>13</ITEMID>
+       <TITLE>AquaSure XP</TITLE>
+       <COLOUR>White</COLOUR>
+       <PRICE>39,990</PRICE>
+       <SIZE>15.4 inch L X 11.2 inch W</SIZE>
+       </CD> 
+
+    <CD>
+       <ITEMID>14</ITEMID>
+       <TITLE>AquaSoft HPA</TITLE>
+       <COLOUR>Grey</COLOUR>
+       <PRICE>49,500</PRICE> 
+       <SIZE>390 L X 255 W X 535 H</SIZE>
+       </CD> 
+
+    <CD>
+       <ITEMID>15</ITEMID>
+       <TITLE>AquaSure Xpert</TITLE>
+       <COLOUR>Black</COLOUR>
+       <PRICE>33,500</PRICE>
+       <SIZE>375 L X 280 W X 410 H</SIZE>
+       </CD>  
+
+
+     <CD>
+       <ITEMID>16</ITEMID>
+       <TITLE>AirPurifier Ultra</TITLE>
+       <COLOUR>Blue</COLOUR>
+       <PRICE>8,990</PRICE> 
+       <SIZE>899 sq ft</SIZE>
+       </CD> 
+
+       
+
+<CD>
+       <ITEMID>17</ITEMID>
+       <TITLE>Dr. Aeroguard XP</TITLE>
+       <COLOUR>White</COLOUR>
+       <PRICE>21,000</PRICE>   
+       <SIZE>500 sq ft</SIZE>
+       </CD> 
+       
+
+<CD>
+       <ITEMID>18</ITEMID>
+       <TITLE>Aerguard AP 700</TITLE>
+       <COLOUR>Black</COLOUR>
+       <PRICE>16,990</PRICE>
+       <SIZE>399 sq ft</SIZE>
+       </CD> 
+
+       
+
+<CD>
+       <ITEMID>19</ITEMID>
+       <TITLE>Aeroguard Auto </TITLE>
+       <COLOUR>Grey</COLOUR>
+       <PRICE>8,990</PRICE>
+       <SIZE>799 sq ft</SIZE>
+       </CD> 
+       
+
+<CD>
+       <ITEMID>20</ITEMID>
+       <TITLE>Dr. Aeroguard HPA </TITLE>
+       <COLOUR>White</COLOUR>
+       <PRICE>8,990</PRICE>
+       <SIZE>566 sq ft</SIZE>
+       </CD>  
+
+
+<CD>
+       <ITEMID>21</ITEMID>
+       <TITLE>Dr. Aeroguard HP </TITLE>
+       <COLOUR>White</COLOUR>
+       <PRICE>18,990</PRICE> 
+       <SIZE>360 sq ft</SIZE>
+       </CD>  
+              
+              
+    <CD>
+       <ITEMID>22</ITEMID>
+       <TITLE>Aeroguard HPA  </TITLE>
+       <COLOUR>Blue</COLOUR>
+       <PRICE>17,990</PRICE> 
+       <SIZE>499 sq ft</SIZE>
+       </CD> 
+
+       <CD>
+       <ITEMID>23</ITEMID>
+       <TITLE>Air Purifier </TITLE>
+       <COLOUR>Black</COLOUR>
+       <PRICE>9,990</PRICE>
+       <SIZE>499 sq ft</SIZE>
+       </CD>   
+       
+       <CD>
+       <ITEMID>24</ITEMID>
+       <TITLE>Aeroguard </TITLE>
+       <COLOUR>Blue</COLOUR>
+       <PRICE>6,990</PRICE>
+       <SIZE>700 sq ft</SIZE>
+       </CD> 
+
+       <CD>
+       <ITEMID>25</ITEMID>
+       <TITLE>AquaGuard</TITLE>
+       <COLOUR>Brown</COLOUR>
+       <PRICE>18,990</PRICE>
+       <SIZE>400 L X 230 W X 540 H</SIZE>
+       </CD>   
+
+       <CD>
+       <ITEMID>26</ITEMID>
+       <TITLE>Dr. Aeroguard HPA </TITLE>
+       <COLOUR>White</COLOUR>
+       <PRICE>8,990</PRICE>
+       <SIZE>500 sq ft</SIZE>
+       </CD>   
+
+       <CD>
+       <ITEMID>27</ITEMID>
+       <TITLE>AquaSoultion</TITLE>
+       <COLOUR>Blue</COLOUR>
+       <PRICE>10,890</PRICE>
+       <SIZE>390 L X 220 W X 400 H</SIZE>
+       </CD> 
+
+       <CD>
+       <ITEMID>28</ITEMID>
+       <TITLE> Aerguard HPA </TITLE>
+       <COLOUR>Black</COLOUR>
+       <PRICE>7,980</PRICE>
+       <SIZE>499 sq ft</SIZE>
+       </CD>   
+
+       <CD>
+       <ITEMID>29</ITEMID>
+       <TITLE>WaterPurifier </TITLE>
+       <COLOUR>White</COLOUR>
+       <PRICE>11,999</PRICE>
+       <SIZE>399 L X 230 W X 530 H</SIZE>
+       </CD>   
+
+       <CD>
+       <ITEMID>30</ITEMID>
+       <TITLE>Dr. Aeroguard </TITLE>
+       <COLOUR>Blue</COLOUR>
+       <PRICE>13,990</PRICE>
+       <SIZE>699 sq ft</SIZE>
+       </CD>             
+
+
+
+
+
+
+
+
+
+
+
+
+
+</CATALOG>
